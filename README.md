@@ -6,7 +6,7 @@ The Real Estate Licensee analysis uses the datasets from Department of Real Esta
 ## Results
 - CA Licensee Population of brokers and salespersons: 
 <p align=center>
-  <img src= 'Resources/images/percentage_broker_sales.png' width=650 height=400> </p>
+  <img src= 'Resources/images/percent_broker_sale.png' width=650 height=400> </p>
   
 - Fiscal year from 2018-2022, DRE administrated examinations:
 <p align=center>
