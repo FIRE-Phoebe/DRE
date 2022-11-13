@@ -15,9 +15,15 @@ The Real Estate Licensee analysis uses the datasets from Department of Real Esta
   <img src='Resources/images/Exam_admin.png' width=650 height=350> </p>
   
   
- - License Issued:
+ - License Issued after examination:
+   - Brokers 
+<p align=center>
+  <img src='Resources/images/Exam_license_broker.png' width=650 height=350> </p>
+  - Salespersons 
+<p align=center>
+  <img src='Resources/images/Exam_license_sales.png' width=650 height=350> </p>
 
-<p align=center><img src='Resources/images/
+
 
 
 ## Summary
