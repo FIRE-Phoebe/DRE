@@ -12,7 +12,7 @@ The Real Estate Licensee analysis uses the datasets from Department of Real Esta
 - Examinations: 
   - Fiscal year from 2018-2022, DRE administrated examinations:
 <p align=center>
-  <img src='Resources/images/Examination_administrated.png' width=650 height=350> </p>
+  <img src='Resources/images/Exam_admin.png' width=650 height=350> </p>
   
   
  - License Issued:
