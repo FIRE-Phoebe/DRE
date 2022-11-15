@@ -24,11 +24,16 @@ We filter and sort the dataset to fulfill the requirements, and visualize the re
   <img src='Resources/images/Exam_admin.png' width=650 height=350> </p>
   
   
- - License Issued after examination:
+### License Issued after examination:
    - Brokers 
+
 <p align=center>
   <img src='Resources/images/Exam_license_broker.png' width=650 height=350> </p>
-  - Salespersons 
+  
+   - Salespersons 
+
+   
+   
 <p align=center>
   <img src='Resources/images/Exam_license_sales.png' width=650 height=350> </p>
 
