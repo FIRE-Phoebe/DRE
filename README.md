@@ -1,7 +1,7 @@
 # California Real Estate Licensee Analysis
 
 ## Overview of the analysis
-The Real Estate Licensee analysis uses the datasets from Department of Real Estate(DRE) in California to analyze the CA licensee and examinee for brokers and salespersons. Based on the DRE Licensee/Examinee statistics, we use a variety of visualization to explore the relationship of the recent 5 years Real Estate Licensee/Examinee. By analyzing these data, we provide recommandations to help the department to plan ahead for the next year and improve Real Estate licensing services.
+The Real Estate Licensee analysis uses the datasets from Department of Real Estate (DRE) in California to analyze the licensee and examinee of brokers and salespersons. Based on the recent five Fiscal years of DRE Licensee/Examinee statistics, we use a variety of visualization to explore the real estate business trend. Our goal is to provide a dashboard and recommendations with DRE, which can help the management to plan ahead for the next year and improve Real Estate licensing services.
 
 ## Results
 - CA Licensee Population of brokers and salespersons: 
