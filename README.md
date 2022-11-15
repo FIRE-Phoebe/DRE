@@ -14,8 +14,12 @@ We use the CA Licensee population dataset from 2017-2022 to create a pivot table
 <p align=center>
   <img src= 'Resources/images/Percentage_pop.png' width=650 height=400> </p>
   
-- Examinations: 
-  - Fiscal year from 2018-2022, DRE administrated examinations:
+### Examinations Admininstrated: 
+We filter and sort the dataset to fulfill the requirements, and visualize the results. Based on the Fiscal year from 2018-2022, DRE total examination administrated of broker and salesperson shows below:
+
+  - From 2019-2020, **salespersons** took the exam has dramatically decrease comparing to brokers.
+  - **Salespersons** increase sharply in recent 2 years. And, for broker examinees, who has grew significantly as well.
+  - In the past two years, the pandemic will be an important factor that affect the people to taking the real estate exam.  
 <p align=center>
   <img src='Resources/images/Exam_admin.png' width=650 height=350> </p>
   
