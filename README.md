@@ -8,7 +8,7 @@ The Real Estate Licensee analysis uses the datasets from Department of Real Esta
 We use the CA Licensee population dataset from 2017-2022 to create a pivot table based on brokers and salespersons category and graphing line chat to visualize how their occupancy trend during rencent 5 years. As the graph shows below:
 
   - Broker has average **30%** based on the fiscal year. 
-  - Salesperson has average **70%** of the share population.
+  - Salesperson has average **70%** share of the Licensee population.
   - The percentage of Broker and salesperson do not get affected during the COVID pandemic outcomes.
  
 <p align=center>
