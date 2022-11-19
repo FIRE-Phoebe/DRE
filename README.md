@@ -12,7 +12,7 @@ We use the CA Licensee population dataset from 2017-2022 to create a pivot table
   - The percentage of Broker and salesperson do not get affected during the COVID pandemic outcome.
  
 <p align=center>
-  <img src= 'Resources/images/Percentage_pop.png' width=650 height=400> </p>
+  <img src= 'Resources/images/percent_pop.png' width=650 height=400> </p>
   
 ### Examinations Admininstrated: 
 We group the data by fiscal year, filter by examinated category, and visualize the results. Based on the Fiscal year from 2018-2022, the California Department of Real Estate total examination administrated of brokers vs. salespersons' graph shows below:
@@ -21,7 +21,7 @@ We group the data by fiscal year, filter by examinated category, and visualize t
   - The number of **salespersons exams administrated** increased sharply in these 2 years; especially in FY 2021, it has reached a peak. 
   - As we can expect, how the pandemic affected people who take the real estate exams.  
 <p align=center>
-  <img src='Resources/images/Exam_admin.png' width=650 height=350> </p>
+  <img src='Resources/images/Examinees.png' width=650 height=350> </p>
   
   
 ### Total License Issued and examinees:
