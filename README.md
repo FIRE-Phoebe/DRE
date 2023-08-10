@@ -25,7 +25,7 @@ We group the data by fiscal year, filter by examinated category, and visualize t
   
   
 ### Total License Issued and examinees:
-   - Brokers: In the FY 2022, the number of broker examinees for broker have significant increased. 
+   - Brokers: In the FY 2022, the number of broker examinees for licenses have significant increased. 
    - The trend of total license issued in these five years are very stable.
 
 <p align=center>
