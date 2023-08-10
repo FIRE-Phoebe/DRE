@@ -9,7 +9,7 @@ We use the CA Licensee population dataset from 2017-2022 to create a pivot table
 
   - Broker has average **30%** based on the fiscal year. 
   - Salesperson has average **70%** share of the Licensee population.
-  - The percentage of Broker and salesperson do not get affected during the COVID pandemic outcome.
+  - The percentage of Broker and salesperson did not get affected during the COVID pandemic outcome.
  
 <p align=center>
   <img src= 'Resources/images/percent_pop.png' width=650 height=400> </p>
