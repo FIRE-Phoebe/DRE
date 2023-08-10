@@ -15,7 +15,7 @@ We use the CA Licensee population dataset from 2017-2022 to create a pivot table
   <img src= 'Resources/images/percent_pop.png' width=650 height=400> </p>
   
 ### Examinations Admininstrated: 
-We group the data by fiscal year, filter by examinated category, and visualize the results. Based on the Fiscal year from 2018-2022, the California Department of Real Estate total examination administrated of brokers vs. salespersons' graph shows below:
+We group the data by fiscal year, filter by examinated category, and visualize the results. Based on the Fiscal year 2018-2022, the California Department of Real Estate total examination administrated of broker vs. salesperson's graph show below:
 
   - During fiscal year(FY) 2019-2020, the number of **salesperson exams administrated** have dramatically decrease. 
   - The number of **salespersons exams administrated** increased sharply after 2020; especially in FY 2022, it has reached a peak. 
